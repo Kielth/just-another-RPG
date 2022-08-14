@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Kielth/just-another-RPG#readme",
   "devDependencies": {
     "jest": "^28.1.3"
+  },
+  "dependencies": {
+    "inquirer": "^6.5.0"
   }
 }
